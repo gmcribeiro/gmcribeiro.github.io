@@ -1,1 +1,1 @@
-User-agent: * Disallow: Sitemap: https://goncalor00.github.io/sitemap.xml
+User-agent: * Disallow: Sitemap: https://goncalor00.github.io/phd/sitemap.xml
