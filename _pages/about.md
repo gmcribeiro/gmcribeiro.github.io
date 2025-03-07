@@ -33,5 +33,12 @@ Put your address / P.O. box / other info right below your picture. You can also 
 
 Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them. -->
 
-# About my PhD
-## Title: Identification techniques of operational vibration modes with MotionScope assisted by stereoscopy
+## About my PhD
+
+This page provides an overview of the problem that motivates this project and the strategy to solve it. Currently, the title of my PhD is **Identification techniques of operational vibration modes assisted by stereoscopy**.
+
+#### Problem description
+
+The techniques currently available to identify operational vibration modes using video cameras rely only on one viewpoint. The problem is that the results could be badly interpreted with only one point of view since certain vibration modes look similar to others when projected to the camera's plane, causing “optical illusions.” The following GIF is a section of a motionscope output video.
+
+In this image, it is possible to see that, if we didn't know what to expect, it would be tough to guess if the drone's arm is moving right and left or back and forth relative to the image plane.
