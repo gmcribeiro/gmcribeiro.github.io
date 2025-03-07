@@ -1,7 +1,7 @@
 ---
 layout: default
 permalink: /reports/
-title: reports
+title: Reports
 nav: true
 nav_order: 1
 pagination:
