@@ -39,6 +39,12 @@ This page provides an overview of the problem that motivates this project and th
 
 #### Problem description
 
-The techniques currently available to identify operational vibration modes using video cameras rely only on one viewpoint. The problem is that the results could be badly interpreted with only one point of view since certain vibration modes look similar to others when projected to the camera's plane, causing “optical illusions.” The following GIF is a section of a motionscope output video.
+Most of the techniques currently available to identify operational vibration modes using video cameras rely only on one viewpoint. The problem is that the results could be badly interpreted with only one point of view since certain vibration modes look similar to others when projected to the camera's plane, causing “optical illusions.” The following GIF is a section of a motionscope output video.
+
+<div class="row mt-3" style="text-align: center">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/problem_examples/motion_scope_drone_arm.gif" class="img-fluid rounded z-depth-1" width='100' style="margin:auto; display:block;" %}
+    </div>
+</div>
 
 In this image, it is possible to see that, if we didn't know what to expect, it would be tough to guess if the drone's arm is moving right and left or back and forth relative to the image plane.
