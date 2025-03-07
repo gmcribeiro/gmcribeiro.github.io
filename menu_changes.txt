@@ -1,0 +1,10 @@
+OldMenuName -> NewMenuName: Contents
+
+about: What is my PhD and my goals
+blog -> reports: The reports for and from meetings with my supervisors
+projects: Long versions of what I accomplish
+publications: My papers
+repositories: Repos
+cv -> (nothing)
+teaching -> SOTA
+people -> Courses
