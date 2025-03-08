@@ -7,11 +7,7 @@ subtitle: PhD student at University of Aveiro
 profile:
   align: right
   image: prof_pic.png
-  image_circular: false # crops the image to make it circular
-  # more_info: >
-  #   <p>555 your office number</p>
-  #   <p>123 your address street</p>
-  #   <p>Your City, State 12345</p>
+  image_circular: false
 
 selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
@@ -26,6 +22,32 @@ latest_posts:
   scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
   limit: 3 # leave blank to include all the blog posts
 ---
+## About me
+
+My name is Gonçalo Ribeiro, and I am currently a PhD student in Mechanical Engineering at the University of Aveiro. If possible, I would study every scientific field, but as a mere human, I focus on computer vision, mechanical vibrations, and machine learning.
+
+In 2023, I completed my master's degree in Mechanical Engineering at the University of Aveiro. My [master's thesis](http://hdl.handle.net/10773/40926) focused on perception for ADAS and ADS using single-task and multi-task neural networks.
+
+## About this website
+
+This website is a blog about my PhD. It is divided in the following parts:
+
+- [Reports]({{ site.baseurl }}/reports/): This page contains reports related to meetings with my supervisors. It includes meeting summaries as well as preparatory and supporting documents, categorized accordingly. Tags are available to facilitate content filtering;
+
+- [Timeline]({{ site.baseurl }}/timeline/): Under construction;
+
+- [Projects]({{ site.baseurl }}/projects/): This page is similar to the reports page but is intended for more structured content. It may include information from multiple reports, compiled into a larger post. It focuses on completed work or research;
+
+- [Publications]({{ site.baseurl }}/publications/): This page lists my past and upcoming PhD publications;
+
+- [Repositories]({{ site.baseurl }}/repositories/): This page lists my repositories related to my academic work.
+
+- [State of the art]({{ site.baseurl }}/sota/): In this page there are some state of the art techniques, methods and technologies in my PhD field;
+
+- [Courses]({{ site.baseurl }}/courses/): This page is a compilation of useful sources to learn more about machine learning, computer vision, motion magnification and mechanical vibrations.
+
+You can also search the website by clicking on the **Search** menu or pressing **Ctrl + k**.
+
 
 ## About my PhD
 
