@@ -58,7 +58,29 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/phd/courses/";
           },
-        },{id: "post-paper-sheet-holder",
+        },{id: "post-lightglue-on-3d-reconstruction",
+      
+        title: "LightGlue on 3D reconstruction",
+      
+      description: "Meeting preparation and support",
+      section: "Posts",
+      handler: () => {
+        
+          window.location.href = "/phd/reports/2024/3d_lightglue/";
+        
+      },
+    },{id: "post-testing-lightglue",
+      
+        title: "Testing LightGlue",
+      
+      description: "Meeting preparation and support",
+      section: "Posts",
+      handler: () => {
+        
+          window.location.href = "/phd/reports/2024/testing_lightglue/";
+        
+      },
+    },{id: "post-paper-sheet-holder",
       
         title: "Paper sheet holder",
       
