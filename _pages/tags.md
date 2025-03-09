@@ -8,7 +8,7 @@ permalink: /tags/
 
 <ul>
 {% for tag in site.tags %}
-  <li><a href="{{ site.baseurl }}/reports/tag/{{ tag[0] | downcase }}/">{{ tag[0] }}</a></li>
+  <li><a href="{{ site.baseurl }}/reports/tag/{{ tag[0] | downcase | replace: " ", "-"}}/">{{ tag[0] }}</a></li>
 {% endfor %}
 </ul>
 

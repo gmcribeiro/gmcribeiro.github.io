@@ -18,13 +18,13 @@ The [ATOM documentation](https://lardemua.github.io/atom_documentation/) provide
 
 <div class="row mt-3" style="text-align: center">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/posts/img/Screenshot_20240402_140350.png" class="img-fluid rounded z-depth-1" zoomable=true%}
+        {% include figure.liquid loading="eager" path="assets/posts/img/04_2024/Screenshot_20240402_140350.png" class="img-fluid rounded z-depth-1" zoomable=true%}
     </div>
 </div>
 
 <div class="row mt-3" style="text-align: center">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/posts/img/Screenshot_20240402_140637.png" class="img-fluid rounded z-depth-1" zoomable=true%}
+        {% include figure.liquid loading="eager" path="assets/posts/img/04_2024/Screenshot_20240402_140637.png" class="img-fluid rounded z-depth-1" zoomable=true%}
     </div>
 </div>
 
