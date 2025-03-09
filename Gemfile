@@ -21,7 +21,7 @@ group :jekyll_plugins do
     gem 'jekyll-toc'
     gem 'jekyll-twitter-plugin'
     gem 'jemoji'
-
+    gem "jekyll-pdf-embed", :git => "https://github.com/MihajloNesic/jekyll-pdf-embed.git"
     gem 'classifier-reborn'  # used for content categorization during the build
 end
 
