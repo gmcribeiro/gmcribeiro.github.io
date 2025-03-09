@@ -58,7 +58,29 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/phd/courses/";
           },
-        },{id: "post-first-research-on-3d-motion-magnification",
+        },{id: "post-review-articles-for-mie",
+      
+        title: "Review articles for MIE",
+      
+      description: "Meeting support",
+      section: "Posts",
+      handler: () => {
+        
+          window.location.href = "/phd/reports/2025/review_article_mie/";
+        
+      },
+    },{id: "post-ideas-for-the-research-paper",
+      
+        title: "Ideas for the research paper",
+      
+      description: "Meeting preparation and support",
+      section: "Posts",
+      handler: () => {
+        
+          window.location.href = "/phd/reports/2024/ideas_review_paper/";
+        
+      },
+    },{id: "post-first-research-on-3d-motion-magnification",
       
         title: "First research on 3D motion magnification",
       
