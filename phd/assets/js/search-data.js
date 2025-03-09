@@ -58,7 +58,29 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/phd/courses/";
           },
-        },{id: "post-using-motionscope-to-see-the-problem",
+        },{id: "post-first-steps-on-3d-reconstruction",
+      
+        title: "First steps on 3D reconstruction",
+      
+      description: "Meeting preparation and support",
+      section: "Posts",
+      handler: () => {
+        
+          window.location.href = "/phd/reports/2024/calibration_3d/";
+        
+      },
+    },{id: "post-feature-matching",
+      
+        title: "Feature Matching",
+      
+      description: "Meeting preparation and support",
+      section: "Posts",
+      handler: () => {
+        
+          window.location.href = "/phd/reports/2024/feature_matching/";
+        
+      },
+    },{id: "post-using-motionscope-to-see-the-problem",
       
         title: "Using MotionScope to see the problem",
       
