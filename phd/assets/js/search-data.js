@@ -58,7 +58,18 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/phd/courses/";
           },
-        },{id: "post-review-articles-for-mie",
+        },{id: "post-simulating-2d-motion-magnification",
+      
+        title: "Simulating 2D motion magnification",
+      
+      description: "Meeting support",
+      section: "Posts",
+      handler: () => {
+        
+          window.location.href = "/phd/reports/2025/simulating_motion_magnification/";
+        
+      },
+    },{id: "post-review-articles-for-mie",
       
         title: "Review articles for MIE",
       
