@@ -58,11 +58,33 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/phd/courses/";
           },
-        },{id: "post-atom-experiments",
+        },{id: "post-using-motionscope-to-see-the-problem",
+      
+        title: "Using MotionScope to see the problem",
+      
+      description: "Meeting report",
+      section: "Posts",
+      handler: () => {
+        
+          window.location.href = "/phd/reports/2024/trying_motionscope/";
+        
+      },
+    },{id: "post-towards-defining-the-problem",
+      
+        title: "Towards defining the problem",
+      
+      description: "Meeting report",
+      section: "Posts",
+      handler: () => {
+        
+          window.location.href = "/phd/reports/2024/defining_problem/";
+        
+      },
+    },{id: "post-atom-experiments",
       
         title: "ATOM experiments",
       
-      description: "Meeting report",
+      description: "Meeting preparation and support",
       section: "Posts",
       handler: () => {
         
