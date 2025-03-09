@@ -48,7 +48,7 @@ Possible review paper title: The use of multi-view systems on phase-based motion
 
 Deliverables for the immersive week:
 
-{% pdf "assets/posts/pdf/11_2024/1_imersive_week.pdf" %}
+{% pdf "{{site.baseurl}}/assets/posts/pdf/11_2024/1_imersive_week.pdf" %}
 
 Research Questions:
 
