@@ -58,7 +58,51 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/phd/courses/";
           },
-        },{id: "post-first-steps-on-3d-reconstruction",
+        },{id: "post-paper-sheet-holder",
+      
+        title: "Paper sheet holder",
+      
+      description: "Meeting support",
+      section: "Posts",
+      handler: () => {
+        
+          window.location.href = "/phd/reports/2024/paper_sheet_holder/";
+        
+      },
+    },{id: "post-improving-3d-reconstruction",
+      
+        title: "Improving 3D reconstruction",
+      
+      description: "Meeting report",
+      section: "Posts",
+      handler: () => {
+        
+          window.location.href = "/phd/reports/2024/improving_3d_report/";
+        
+      },
+    },{id: "post-improving-3d-reconstruction",
+      
+        title: "Improving 3D reconstruction",
+      
+      description: "Meeting preparation and support",
+      section: "Posts",
+      handler: () => {
+        
+          window.location.href = "/phd/reports/2024/improving_3d/";
+        
+      },
+    },{id: "post-using-a-vibrometer",
+      
+        title: "Using a vibrometer",
+      
+      description: "Meeting report",
+      section: "Posts",
+      handler: () => {
+        
+          window.location.href = "/phd/reports/2024/vibrometer/";
+        
+      },
+    },{id: "post-first-steps-on-3d-reconstruction",
       
         title: "First steps on 3D reconstruction",
       
