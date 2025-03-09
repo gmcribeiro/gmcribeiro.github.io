@@ -58,7 +58,18 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/phd/courses/";
           },
-        },{id: "post-lightglue-on-3d-reconstruction",
+        },{id: "post-first-research-on-3d-motion-magnification",
+      
+        title: "First research on 3D motion magnification",
+      
+      description: "Meeting preparation and support",
+      section: "Posts",
+      handler: () => {
+        
+          window.location.href = "/phd/reports/2024/first_research_3d_motion_magnification/";
+        
+      },
+    },{id: "post-lightglue-on-3d-reconstruction",
       
         title: "LightGlue on 3D reconstruction",
       
