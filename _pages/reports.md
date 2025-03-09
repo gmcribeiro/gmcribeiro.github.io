@@ -52,9 +52,10 @@ pagination:
           <p>&bull;</p>
         {% endunless %}
       {% endfor %}
+      <p>&bull;</p>  # <i class="fa-solid fa-sm"></i> <a href="{{ site.baseurl }}/tags/">Tags list</a>
     </ul>
-    # <i class="fa-solid fa-sm"></i> <a href="{{ site.baseurl }}/tags/">Tag list</a>
-    <p></p>
+    
+    <!-- <p></p> -->
   </div>
   {% endif %}
 

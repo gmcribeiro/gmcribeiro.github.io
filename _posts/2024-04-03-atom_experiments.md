@@ -2,7 +2,7 @@
 layout: post
 title: ATOM experiments
 date: 2024-04-03 16:40:16
-description: Meeting report
+description: Meeting preparation and support
 tags: [ATOM, ROS, Simulation]
 categories: [meeting-support, meeting-preparation]
 ---
