@@ -66,7 +66,7 @@ ninja.data = [{
       section: "Posts",
       handler: () => {
         
-          window.location.href = "/phd/blog/2024/atom_experiments/";
+          window.location.href = "/phd/reports/2024/atom_experiments/";
         
       },
     },{id: "post-first-meeting",
@@ -77,7 +77,7 @@ ninja.data = [{
       section: "Posts",
       handler: () => {
         
-          window.location.href = "/phd/blog/2024/first-meeting/";
+          window.location.href = "/phd/reports/2024/first-meeting/";
         
       },
     },{id: "projects-project-1",
