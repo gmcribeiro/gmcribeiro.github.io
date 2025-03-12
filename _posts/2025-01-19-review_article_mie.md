@@ -14,3 +14,7 @@ Preliminary paper:
 Final paper:
 
 {% pdf "{{site.baseurl}}/assets/posts/pdf/01_2025/93193_mie_review_paper.pdf" %}<br>
+
+Presentation:
+
+{% pdf "{{site.baseurl}}/assets/posts/ppt/01_2025/93193_Apresentacao_Gonçalo_MIE.pptx" %}<br>
