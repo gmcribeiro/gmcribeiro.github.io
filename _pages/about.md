@@ -68,7 +68,12 @@ In this image, it is possible to see that, if we didn't know what to expect, it 
 The techniques available for 3D motion magnification have several limitations, such as:
 
 - The need for very precise camera parameters, making offline calibration indispensable;
-- (etc)
+- Dependency on speckle patterns;
+- Low point density - Some techniques rely on feature matching algorithms to do pixel correspondence between images. In 3D this results in a low density point cloud;
+- Learning based approach are computationally intensive, requiring high-end GPUs;
+- The need for a big amount of viewpoints;
+- There isn't any implementation of some sort of "[smart aliasing](https://www.motion-scope.com/smart-aliasing)" for 3D;
+- There isn't consistency on the evaluation of these techniques. There is a need for good metrics and a public dataset to make possible direct quantitative comparisons.
 
 #### Constraints
 - To avoid possible inconveniences and increase flexibility of use, avoid placing the camera in predefined locations or measuring its positions.
@@ -85,8 +90,5 @@ The main goal of this project is to develop a system that can be parallel or int
 - Developing a tool to watch the results (maybe an animated 3D plot)
 - (Optional) Wrap the points around a 3D model for a better interpretation of the results
 
-### Research questions
-
-
-
+<!-- ### Research questions -->
 
