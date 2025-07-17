@@ -58,7 +58,18 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/phd/courses/";
           },
-        },{id: "post-simulating-2d-motion-magnification",
+        },{id: "post-fringe-projection-and-digital-image-correlation",
+      
+        title: "Fringe projection and digital image correlation",
+      
+      description: "Meeting support",
+      section: "Posts",
+      handler: () => {
+        
+          window.location.href = "/phd/reports/2025/fringe_and_dic/";
+        
+      },
+    },{id: "post-simulating-2d-motion-magnification",
       
         title: "Simulating 2D motion magnification",
       
